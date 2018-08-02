@@ -17,3 +17,4 @@ Ubuntu 18.04 LTS, Latest Howdy Ver from Remote Web Terminal Installtion
 
 **Linux distribution (if applicable)**:
 **Howdy version**:
+SOLVED i didnt see the other posts.SRY. Fixed about PY binings.
